@@ -1,6 +1,3 @@
 public class ISOII {
- //Prueba Dani
-	//HOLA
-	//prueba nerea 
-	//prueba victor 1
+	//m0 hecho
 }
