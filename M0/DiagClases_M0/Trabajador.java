@@ -14,7 +14,6 @@ public class Trabajador {
 	public void setNombre(string Nombre) {
 		this.Nombre = Nombre;
 	}
-
 	public string getApellido() {
 		return this.Apellido;
 	}

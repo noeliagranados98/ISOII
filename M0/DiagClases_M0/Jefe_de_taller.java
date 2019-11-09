@@ -7,7 +7,6 @@ public class Jefe_de_taller extends Trabajador {
 	public int getPrioridad() {
 		return this.prioridad;
 	}
-
 	public void setPrioridad(int prioridad) {
 		this.prioridad = prioridad;
 	}

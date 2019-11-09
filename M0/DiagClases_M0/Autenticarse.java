@@ -8,7 +8,7 @@ public class Autenticarse {
 	
 	public static void main(args) {
 		System.out.print("Introduce usuario");
-		System.out.print("Introduce pass");
+		System.out.print("Introduce password");
 	}
 
 	public string getUsuario() {
