@@ -23,7 +23,7 @@ public class Jefe_de_taller extends Trabajador {
 	}
 
 	public void setN_jefe(int prioridad) {
-		this.prioridad = num_jefe;
+		this.N_jefe = num_jefe;
 	}
 	
 	
