@@ -1,6 +1,8 @@
 package DiagClases_M1;
 
 public class AsignarBoxMecanico {
+	
+	//ite 4
 
 	private int idbox;
 	private int idmecanico;
