@@ -8,6 +8,13 @@ public class AsignarBoxMecanico {
 	private int idmecanico;
 	private int estado;
 
+	public AsignarBoxMecanico(int idbox, int idmecanico, int estado) {
+		super();
+		this.idbox = idbox;
+		this.idmecanico = idmecanico;
+		this.estado = estado;
+	}
+
 	public void getIdbox() {
 		// TODO - implement AsignarBoxMecanico.getIdbox
 		throw new UnsupportedOperationException();

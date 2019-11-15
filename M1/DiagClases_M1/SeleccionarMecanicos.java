@@ -4,6 +4,11 @@ public class SeleccionarMecanicos {
 
 	private int idmecanico;
 
+	public SeleccionarMecanicos(int idmecanico) {
+		super();
+		this.idmecanico = idmecanico;
+	}
+
 	public void getIdmecanico() {
 		// TODO - implement SeleccionarMecanicos.getIdmecanico
 		throw new UnsupportedOperationException();
