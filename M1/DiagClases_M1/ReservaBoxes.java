@@ -4,6 +4,30 @@ public class ReservaBoxes {
 
 	private int idbox;
 	private int estado;
+	private boolean ocupado;
+
+	public int getIdbox() {
+		return idbox;
+	}
+
+	public void setIdbox(int idbox) {
+		this.idbox = idbox;
+	}
+
+	public boolean isOcupado() {
+		return ocupado;
+	}
+
+	public void setOcupado(boolean ocupado) {
+		this.ocupado = ocupado;
+	}
+
+	public ReservaBoxes(int idbox, int estado, boolean ocupado) {
+		super();
+		this.idbox = idbox;
+		this.estado = estado;
+		this.ocupado = ocupado;
+	}
 
 	public void getEstado() {
 		// TODO - implement ReservaBoxes.getEstado

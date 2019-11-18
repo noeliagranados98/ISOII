@@ -1,10 +1,19 @@
 package DiagClases_M1;
 
 public class AsignarBoxMecanico {
+	
+	//ite 4
 
 	private int idbox;
 	private int idmecanico;
 	private int estado;
+
+	public AsignarBoxMecanico(int idbox, int idmecanico, int estado) {
+		super();
+		this.idbox = idbox;
+		this.idmecanico = idmecanico;
+		this.estado = estado;
+	}
 
 	public void getIdbox() {
 		// TODO - implement AsignarBoxMecanico.getIdbox
