@@ -37,10 +37,6 @@ public class alarma_pieza {
 		throw new UnsupportedOperationException();
 	}
 
-	/**
-	 * 
-	 * @param umbral_calidad
-	 */
 	public void setUmbral_calidad(int umbral_calidad) {
 		this.umbral_calidad = umbral_calidad;
 	}
