@@ -28,10 +28,6 @@ public class alarma_pieza {
 		throw new UnsupportedOperationException();
 	}
 
-	/**
-	 * 
-	 * @param tipo_pieza
-	 */
 	public void setTipo_pieza(int tipo_pieza) {
 		this.tipo_pieza = tipo_pieza;
 	}
