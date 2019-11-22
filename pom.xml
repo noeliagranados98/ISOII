@@ -21,6 +21,5 @@
   <modules>
   	<module>M0</module>
     <module>M1</module>
-    <module>M2</module>
   </modules>
 </project>
