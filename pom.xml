@@ -22,5 +22,6 @@
   	<module>M0</module>
     <module>M1</module>
     <module>M4</module>
+    <module>M5</module>
   </modules>
 </project>
